@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
+title: Home
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Jay Kalansooriya | Growth Hacker
 ---
 
-There isn't much going on here yet, but watch this space
+Do you want to grow your company faster?
