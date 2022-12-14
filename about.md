@@ -1,5 +1,6 @@
 ---
-title: About this website
+title: Who is Jay
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+I'm Jay, and I'm a growth marketing expert. 
+I can help you grow your business faster.
