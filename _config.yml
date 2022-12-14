@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Jay Kalansooriya | Official Website'
+description: 'Growth Marketing Expert'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,fl_lossy/v1587490311/g5/g5-c-5l6hn2bha-jaybird-senior-living/g5-cl-1jy3j3gwqo-jaybird-senior-living/uploads/white-jaybird-favicon-01-01_hqak8v.png"
 
 # Pagination
 paginate: 5
