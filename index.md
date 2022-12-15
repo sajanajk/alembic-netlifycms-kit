@@ -7,5 +7,4 @@ feature_text: |
 
 # Hello! I'm a freelance writer and a content strategist specialized in startups and SMEs.
 
-{% include site-form.html %}
 {% raw %}{% include site-form.html %}{% endraw %}
